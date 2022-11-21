@@ -11,4 +11,4 @@ This page is for those people who were lucky enough to buy a video card from ali
 By default, manufacturers offer to download two drivers that need to be installed sequentially and which are simply of terrible quality, for example, it is impossible to render with such drivers using blender or arnold. I decided to fix this situation and corrected the original drivers from nvidia, which now work fine with such video cards. Use it, enjoy life and don't forget to [buy me a coffee](https://www.buymeacoffee.com/FrankenDriver)!
 
 ## Driver versions
-- [526.98-desktop-win10-win11-64bit-international-dch-whql.exe](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1uKFmyzwm4_vNdPPHKbVI90EIFCNZbeI3)
+- [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1uKFmyzwm4_vNdPPHKbVI90EIFCNZbeI3)
