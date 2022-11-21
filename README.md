@@ -2,8 +2,11 @@
 Drivers for video cards RTX 3060m, RTX 3070m and RTX 3080m from aliexpress
 
 ```html
-<style>p{color:red;}</style>
-*foo*
+$\colorbox{red}{text}$
+
+Text inside bordered Box 
+
+$\fbox{Hello there}$
 ```
 
 This page is for those people who were lucky enough to buy a video card from aliexpers RTX 3060m / RTX 3070m / RTX 3080m
