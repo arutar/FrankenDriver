@@ -14,3 +14,4 @@ By default, manufacturers offer to download two drivers that need to be installe
 
 ## Drivers download
 - Version [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1uKFmyzwm4_vNdPPHKbVI90EIFCNZbeI3)
+- Version [527.37](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Nhra8hrInnPMeSXmIuSC4o39TQ-Z7v87)
