@@ -20,3 +20,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Version [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1h2APFv9tYoifU0NnyrLzwGng5Az5ux3-)
 
 
+<details><summary>Supported Devices</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
