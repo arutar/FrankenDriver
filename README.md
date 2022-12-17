@@ -22,8 +22,11 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 <details><summary>Supported Devices</summary>
 
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
+   1. 2520.0000.10DE RTX 3060m
+   1. 249D.0000.10DE RTX 3070m
+   1. 249D.4449.4D50 RTX 3070m
+   1. 24A0.0000.10DE RTX 3070m Ti
+   1. 249C.0000.10DE RTX 3080m
+   1. 249C.4449.4D50 RTX 3080m
 
 </details>
