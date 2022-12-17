@@ -19,7 +19,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Version [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13vwstnYk3usczu1MD9lwCySlCxHH0YSe)
 - Version [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1h2APFv9tYoifU0NnyrLzwGng5Az5ux3-)
 
-<details><summary>###Change log</summary>
+<details><summary height="25">Change log</summary>
 
 ### 18.12.2022
 - Added new ID RTX 3070m
