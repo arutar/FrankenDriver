@@ -1,6 +1,6 @@
 ![logo](logo/FrankenDriver.png)
 # FrankenDriver
-Original nvidia driver for **frankenstein graphics cards** with laptop chip.
+Original nvidia driver for **frankenstein graphics cards** with a laptop chip.
 
 - RTX 3060m
 - RTX 3070m
