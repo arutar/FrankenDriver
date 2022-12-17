@@ -19,14 +19,3 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Version [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13vwstnYk3usczu1MD9lwCySlCxHH0YSe)
 - Version [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1h2APFv9tYoifU0NnyrLzwGng5Az5ux3-)
 
-
-<details><summary>Supported Devices</summary>
-
-   1. 2520.0000.10DE RTX 3060m
-   1. 249D.0000.10DE RTX 3070m
-   1. 249D.4449.4D50 RTX 3070m
-   1. 24A0.0000.10DE RTX 3070m Ti
-   1. 249C.0000.10DE RTX 3080m
-   1. 249C.4449.4D50 RTX 3080m
-
-</details>
