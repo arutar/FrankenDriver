@@ -22,16 +22,20 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <details><summary>Supported devices</summary>
     
 - RTX 3060m
+    
   2520.0000.10DE
   
 - RTX 3070m
+    
   249D.0000.10DE
   249D.4449.4D50
   
 - RTX 3070m Ti
+    
   24A0.0000.10DE
   
 - RTX 3080m
+    
   249C.0000.10DE
   249C.4449.4D50
 
