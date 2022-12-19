@@ -28,6 +28,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - RTX 3070m
     
   249D.0000.10DE
+  
   249D.4449.4D50
   
 - RTX 3070m Ti
@@ -37,6 +38,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - RTX 3080m
     
   249C.0000.10DE
+  
   249C.4449.4D50
 
 </details>
