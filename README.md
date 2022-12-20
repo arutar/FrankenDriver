@@ -35,7 +35,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
   249C.0000.10DE  
   249C.4449.4D50  
 
-
+</details>
 
 <details><summary>Issues</summary>
 
