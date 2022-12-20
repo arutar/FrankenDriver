@@ -35,5 +35,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
   249C.0000.10DE  
   249C.4449.4D50  
 
-</details>
 
+
+<details><summary>Issues</summary>
+
+- [Easy Anti-Cheat](https://github.com/arutar/FrankenDriver/issues/2)
+
+</details>
