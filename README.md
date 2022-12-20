@@ -40,5 +40,6 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <details><summary>Issues</summary>
 
 - [Easy Anti-Cheat](https://github.com/arutar/FrankenDriver/issues/2)
+- [Add new Device ID](https://github.com/arutar/FrankenDriver/issues/5)
 
 </details>
