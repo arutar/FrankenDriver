@@ -39,7 +39,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 <details><summary>Issues</summary>
 
-- [Easy Anti-Cheat](https://github.com/arutar/FrankenDriver/issues/2)
+- [Easy Anti-Cheat errors](https://github.com/arutar/FrankenDriver/issues/2)
+- [How to remove Easy Anti-Cheat errors](https://github.com/arutar/FrankenDriver/issues/6)
 - [Add a new Device ID](https://github.com/arutar/FrankenDriver/issues/5)
 
 </details>
