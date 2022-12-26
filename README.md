@@ -15,7 +15,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <img align="right" width="100" height="100" src="logo/qr_b1b07814e495597a0792eb5ef7984907.png">
 
 ## Drivers download
-- Version [512.95](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16lLN4FrAstYdG5gqA8fAlh8PaEOUxLeh)
+- Version [512.95](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1IMz01Q5QCpCZholHPJBpWS4PrxRP-oP3)
 - Version [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13vwstnYk3usczu1MD9lwCySlCxHH0YSe)
 - Version [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1h2APFv9tYoifU0NnyrLzwGng5Az5ux3-)
 
