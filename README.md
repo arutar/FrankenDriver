@@ -20,8 +20,6 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Version [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16-5ROVeBKuygkTM6-vq-BVg_rjYG1cDo)
 - Version [528.02](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD)
 
-[test](https://downloader.disk.yandex.ru/disk/303f75b38d9f2dbc6f51de49a93cacfb87f052433f242932b399f884a00befc2/63b89bda/OlEUxuXwCydoTqyX92xqfeHhyxWSeF9NEMnlmWz4-n48ch9HtahHzAd_8f7w-6gCE7MB0Bofc5jvqqBxzg0X9Q%3D%3D?uid=0&filename=Горы.jpg&disposition=attachment&hash=PU0yXY7wH1frY%2B0yrwmJbxukNigbzjZsZ0U1GweEJsplztVTGiYQbBz8%2BPX6Rmanq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=image%2Fjpeg&owner_uid=46306548&fsize=2806247&hid=cdbe7b2421dd9a7a78125eaff90e814c&media_type=image&tknv=v2)
-
 <details><summary>Supported devices</summary>
     
 ### RTX 3060m
