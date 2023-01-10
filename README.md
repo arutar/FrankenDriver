@@ -15,10 +15,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <img align="right" width="100" height="100" src="logo/qr_b1b07814e495597a0792eb5ef7984907.png">
 
 ## Drivers download
-- Version [512.95](https://files.fm/down.php?i=szramtv84) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk)
-- Version [526.98](https://files.fm/down.php?i=atkyqr746) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1jGvfTucB2nAm8irYUQgVqj-qdU6sZae6)
-- Version [527.56](https://files.fm/down.php?i=hedpmrpsw) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16-5ROVeBKuygkTM6-vq-BVg_rjYG1cDo)
-- Version [528.02](https://files.fm/down.php?i=g6jedpgxv) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD)
+- Win [512.95](https://files.fm/down.php?i=szramtv84) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk)
+- Win [526.98](https://files.fm/down.php?i=atkyqr746) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1jGvfTucB2nAm8irYUQgVqj-qdU6sZae6)
+- Win [527.56](https://files.fm/down.php?i=hedpmrpsw) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16-5ROVeBKuygkTM6-vq-BVg_rjYG1cDo)
+- Win [528.02](https://files.fm/down.php?i=g6jedpgxv) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD)
 - Linux [525.78.01](https://files.fm/down.php?i=egsj5uzsn)  and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 
 
