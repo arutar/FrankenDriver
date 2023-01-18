@@ -11,11 +11,10 @@ This page is for those people who were lucky enough to buy a video card from ali
 
 By default, manufacturers offer to download two drivers that need to be installed sequentially and which are simply of terrible quality, for example, it is impossible to render with such drivers using blender or arnold, and updating such a driver will most likely never happen. 
 I decided to fix this situation and corrected the original drivers from nvidia, which now work fine with such video cards. Use it, enjoy life and don't forget to [buy me a coffee](https://www.buymeacoffee.com/FrankenDriver) or [support the project](https://www.donationalerts.com/r/arutar)!  
-### [[ subscribe to the project ]](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)
 
 <img align="right" width="100" height="100" src="logo/qr_b1b07814e495597a0792eb5ef7984907.png">
 
-## Drivers download
+## Drivers download and Project [Subscription](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)
 - Windows [512.95](https://files.fm/down.php?i=szramtv84) or [Mirror](https://drive.google.com/uc?export=&confirm=no_antivirus&id=1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk)
 - Windows [526.98](https://files.fm/down.php?i=atkyqr746) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1jGvfTucB2nAm8irYUQgVqj-qdU6sZae6)
 - Windows [527.56](https://files.fm/down.php?i=hedpmrpsw) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16-5ROVeBKuygkTM6-vq-BVg_rjYG1cDo)
