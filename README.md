@@ -22,6 +22,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Linux [525.78.01](https://files.fm/down.php?i=egsj5uzsn)  and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 
 
+## Need a custom driver? [Gold subscription and TG chat.](https://boosty.to/frankendriver/purchase/1383232?ssource=DIRECT&share=subscription_link)
+
 <details><summary>Supported devices</summary>
     
 ### RTX 3060m
