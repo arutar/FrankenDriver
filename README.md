@@ -21,6 +21,15 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [528.02](https://files.fm/down.php?i=g6jedpgxv) or [Mirror](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD)
 - Linux [525.78.01](https://files.fm/down.php?i=egsj5uzsn)  and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 
+<details><summary>Security and transparency</summary>
+
+1) Only installer configs and inf files are modified.  
+2) No driver binaries are modified!  
+3) No additional executable files are installed or executed.  
+4) In order to view the contents of the installer, it is enough to unpack the contents using rar or 7zip.  
+
+</details>
+
 <details><summary>Supported devices</summary>
     
 ### RTX 3060m
