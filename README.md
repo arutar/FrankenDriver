@@ -58,4 +58,4 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 #### Need a very customized driver? [Gold subscription & TG channel](https://boosty.to/frankendriver/purchase/1383232?ssource=DIRECT&share=subscription_link)
 
-<a href="https://www.googleapis.com/drive/v3/files/1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk?key=AIzaSyD3Swrn1pAMNolv6rzMcmviu8tbPq-0bi0&alt=media" download="test">Download</a>
+<a href="https://www.googleapis.com/drive/v3/files/1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk?key=AIzaSyD3Swrn1pAMNolv6rzMcmviu8tbPq-0bi0" download="test">Download</a>
