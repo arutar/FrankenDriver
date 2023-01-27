@@ -18,9 +18,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 
 - Windows <a href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk" referrerpolicy="no-referrer" rel="noreferrer nofollow" target="_blank">512.95</a> or [Mirror](https://files.fm/down.php?i=szramtv84)
-- Windows [526.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1jGvfTucB2nAm8irYUQgVqj-qdU6sZae6) or [Mirror](https://files.fm/down.php?i=atkyqr746)
-- Windows [527.56](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=16-5ROVeBKuygkTM6-vq-BVg_rjYG1cDo) or [Mirror](https://files.fm/down.php?i=hedpmrpsw)
 - Windows [528.02](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD) or [Mirror](https://files.fm/down.php?i=g6jedpgxv)
+- Windows [528.24](https://drive.google.com/file/d/14i1eJZiteQbmCwVhmGfbVC16WTr22GEW/view?usp=share_link)
 - Linux [525.78.01](https://files.fm/down.php?i=egsj5uzsn)  and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 
 <details><summary>Security and transparency</summary>
