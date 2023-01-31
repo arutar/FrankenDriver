@@ -33,17 +33,17 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 <details><summary>Supported devices</summary>
     
-### RTX 3060m
+- ### RTX 3060m
   10DE.2520 10DE.0000  
 
-### RTX 3070m
+- ### RTX 3070m
   10DE.249D 10DE.0000  
   10DE.249D 4D50.4449  
 
-### RTX 3070m Ti
+- ### RTX 3070m Ti
   10DE.24A0 10DE.0000  
  
-### RTX 3080m   
+- ### RTX 3080m   
   10DE.249C 10DE.0000  
   10DE.249C 4D50.4449  
 
