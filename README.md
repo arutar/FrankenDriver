@@ -20,12 +20,16 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows <a rel = 'noreferrer nofollow' target = '_blank' referrerpolicy = 'no-referrer' href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1WmUDGSfFZJw8HyteHH2W-QCWmCIN3_Bk">512.95</a> or [Mirror](https://files.fm/down.php?i=szramtv84)
 - Windows [528.02](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1-JRJosgIu1kPWgZKxWLp5wuhLP_rlGRD) or [Mirror](https://files.fm/down.php?i=g6jedpgxv)
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=14i1eJZiteQbmCwVhmGfbVC16WTr22GEW)
-- Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)  
+- Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
+- Linux [525.78.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6)
 
 <details><summary>Linux Wget download lonk</summary>
 
 ```Batchfile
  wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
+```
+```Batchfile
+ wget --output-document=NVIDIA-Linux-x86_64-525.78.01.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6'
 ```
 
 </details>
