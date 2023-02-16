@@ -22,6 +22,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=14i1eJZiteQbmCwVhmGfbVC16WTr22GEW)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 
+```Batchfile
+ wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
+```
+
 <details><summary>Security and transparency</summary>
 
 1) Only installer configs and inf files are modified.  
