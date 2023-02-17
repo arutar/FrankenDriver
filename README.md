@@ -1,6 +1,6 @@
 ![logo](logo/FrankenDriver.png)
 # FrankenDriver
-Original nvidia driver for **frankenstein graphics cards** with a laptop chip.  
+### Original nvidia driver for **frankenstein graphics cards** with a laptop chip.  
 How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/issues/6)!
 
 - RTX 3060m
