@@ -69,5 +69,5 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 </details>
 
-#### Need a very customized driver? [Gold subscription & TG channel](https://boosty.to/frankendriver/purchase/1383232?ssource=DIRECT&share=subscription_link)
+#### Need a very customized driver? Interested in the long existence of the project? [Gold subscription & TG channel](https://boosty.to/frankendriver/purchase/1383232?ssource=DIRECT&share=subscription_link)
 
