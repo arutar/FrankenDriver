@@ -38,8 +38,9 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 1) Only installer configs and inf files are modified.  
 2) No driver binaries are modified!  
-3) No additional executable files are installed or executed.  
-4) In order to view the contents of the installer, it is enough to unpack the contents using rar or 7zip.  
+3) No additional executable files are installed or executed.
+4) NVPCF removed from driver to avoid error 31
+5) In order to view the contents of the installer, it is enough to unpack the contents using rar or 7zip.  
 
 </details>
 
