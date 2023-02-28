@@ -18,8 +18,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ## Drivers download and Project [Subscription & TG channel (Studio and latest drivers)](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)
 
 - Windows <a rel = 'noreferrer nofollow' target = '_blank' referrerpolicy = 'no-referrer' href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Q3gQwkjainWtDy-xNkbj1jtpIRTgRC4e">512.95</a>
-- Windows [528.02](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1w1vv-2CuiC85EaptJh3Ppxxrb5WgDn_a)
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ScfXGZIYRJzecrM--oVO6I4rEcTiTHtX)
+- Windows [528.49](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Qq9Zu9RA8p6p9FtIP33RPWaPXDLscjQV)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [525.78.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6)
 
