@@ -16,9 +16,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <img align="right" width="100" height="100" src="logo/qr_b1b07814e495597a0792eb5ef7984907.png">
 
 # Drivers download  
-#### Studio and LATEST drivers [on boosty](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)  
-#### Studio and latest drivers [on buymeacoffee](https://www.buymeacoffee.com/FrankenDriver/membership)  
-
+#### Studio and [LATEST drivers on boosty](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)  
+#### Studio and [LATEST drivers on buymeacoffee](https://www.buymeacoffee.com/FrankenDriver/membership)  
 - Windows <a rel = 'noreferrer nofollow' target = '_blank' referrerpolicy = 'no-referrer' href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Q3gQwkjainWtDy-xNkbj1jtpIRTgRC4e">512.95</a>
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ScfXGZIYRJzecrM--oVO6I4rEcTiTHtX)
 - Windows [528.49](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Qq9Zu9RA8p6p9FtIP33RPWaPXDLscjQV)
