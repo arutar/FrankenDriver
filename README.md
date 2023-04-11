@@ -20,9 +20,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 [Latest news in the boosty feed](https://boosty.to/frankendriver) 
 #### Studio and [LATEST drivers download with buymeacoffee](https://www.buymeacoffee.com/FrankenDriver/membership) **subscription**.  
 [Latest news in the buymeacoffee feed](https://www.buymeacoffee.com/FrankenDriver/posts)
-- Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ScfXGZIYRJzecrM--oVO6I4rEcTiTHtX)
+
 - Windows [528.49](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Qq9Zu9RA8p6p9FtIP33RPWaPXDLscjQV)
 - Windows <a rel = 'noreferrer nofollow' target = '_blank' referrerpolicy = 'no-referrer' href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1efqVhAhDR9o4kn5kgvNxt0DNs6DC0DNz">531.26</a>
+- Windows [531.41](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=13oUr1Sl9DNMQgDOeCfJqzLv29zhA9MZw)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [525.78.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6)
 
