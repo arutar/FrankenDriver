@@ -25,9 +25,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 #### Studio and [LATEST drivers download with buymeacoffee](https://www.buymeacoffee.com/FrankenDriver/membership) **subscription**.  
 [Latest news in the buymeacoffee feed](https://www.buymeacoffee.com/FrankenDriver/posts)
 
-- Windows <a rel = 'noreferrer nofollow' target = '_blank' referrerpolicy = 'no-referrer' href="https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1efqVhAhDR9o4kn5kgvNxt0DNs6DC0DNz">531.26</a>
-- Windows [531.41](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=13oUr1Sl9DNMQgDOeCfJqzLv29zhA9MZw)
-- Windows [531.58](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1u1HVCXW3WcoErMCpL64FBxY47jfVXzPE)
+
+- Windows [531.68](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1bFjU-JI27S1onql6uMeXQFjTouQvlO-n)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [525.78.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6)
 
