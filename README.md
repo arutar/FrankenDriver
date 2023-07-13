@@ -25,7 +25,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 #### Studio and [LATEST drivers download with buymeacoffee](https://www.buymeacoffee.com/FrankenDriver/membership) **subscription**.  
 [Latest news in the buymeacoffee feed](https://www.buymeacoffee.com/FrankenDriver/posts)
 
-- Windows [531.68](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1bFjU-JI27S1onql6uMeXQFjTouQvlO-n)
+- Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
 - Windows [531.79](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1T0_nW5kk_cscm3nl7v9hOZJqwmsJSc8b)
 - Windows [532.03](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1lSxicfIxQzZBW-8IKG6EIM3rDustUagQ)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
