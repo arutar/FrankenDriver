@@ -1,6 +1,6 @@
 ![logo](logo/FrankenDriver.png)
 # FrankenDriver
-### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (Win10 Win11 Linux)  
+### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (**Win10 Win11 Linux**)  
 How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/issues/6)!
 
 - RTX 20XX
