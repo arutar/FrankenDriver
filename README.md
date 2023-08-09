@@ -29,8 +29,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [531.79](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1T0_nW5kk_cscm3nl7v9hOZJqwmsJSc8b)
 - Windows [532.03](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1lSxicfIxQzZBW-8IKG6EIM3rDustUagQ)
 - Windows [535.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ETK4ENLjsNGxGE-y3SPZvIBkB7iOvP6Y)
+- Windows [536.09](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1pAHSCUkEz52wQIJLimfLe-yurVx31oL7)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
-- Linux [525.78.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6)
+- Linux [530.41.03](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Ij43yQViPBxx2gdTvURHzUJPEKioaYF7)
+
 
 <details><summary>Linux (HiveOS) Wget download link</summary>
 
@@ -38,7 +40,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
  wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
 ```
 ```Batchfile
- wget --output-document=NVIDIA-Linux-x86_64-525.78.01.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ibOQCipdtXYxAiSVpBQbzabEYjSMnoE6'
+ wget --output-document=NVIDIA-Linux-x86_64-530.41.03.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Ij43yQViPBxx2gdTvURHzUJPEKioaYF7'
 ```
 
 </details>
