@@ -26,12 +26,11 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 [Latest news in the buymeacoffee feed](https://www.buymeacoffee.com/FrankenDriver/posts)
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [531.79](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1T0_nW5kk_cscm3nl7v9hOZJqwmsJSc8b)
-- Windows [532.03](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1lSxicfIxQzZBW-8IKG6EIM3rDustUagQ)
 - Windows [535.98](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ETK4ENLjsNGxGE-y3SPZvIBkB7iOvP6Y)
 - Windows [536.09](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1pAHSCUkEz52wQIJLimfLe-yurVx31oL7)
+- Windows [537.13](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1WwzfenLTFHVveW4hlm2fcJCuysNl1uLj)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
-- Linux [530.41.03](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Ij43yQViPBxx2gdTvURHzUJPEKioaYF7)
+- Linux [535.104.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl)
 
 
 <details><summary>Linux (HiveOS) Wget download link</summary>
@@ -40,7 +39,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
  wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
 ```
 ```Batchfile
- wget --output-document=NVIDIA-Linux-x86_64-530.41.03.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Ij43yQViPBxx2gdTvURHzUJPEKioaYF7'
+ wget --output-document=NVIDIA-Linux-x86_64-535.104.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl'
 ```
 
 </details>
