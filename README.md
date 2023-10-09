@@ -3,16 +3,11 @@
 ### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (**Win10 Win11 Linux**)  
 How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/issues/6)!
 
-- RTX 20XX
-- RTX 2070m
-- RTX 2080m
-- RTX 2080m Super
-- RTX 3060m
-- RTX 3070m
-- RTX 3070m Ti
-- RTX 3080m
+- RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
+- RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m
+- RTX A2000
 
-This page is for those people who were lucky enough to buy a video card from aliexpress <img src="https://img.shields.io/badge/-RTX%203060m-orange" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m-green" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m%20Ti-blueviolet" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m-blue" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202070m-ff69b4" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m-ff4400" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m%20Super-16a085" height="25"/> / <img src="https://img.shields.io/badge/-RTX%2020XX-95a5a6" height="25"/>
+This page is for those people who were lucky enough to buy a video card from aliexpress <img src="https://img.shields.io/badge/-RTX%203060m-orange" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m-green" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m%20Ti-blueviolet" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m-blue" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202070m-ff69b4" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m-ff4400" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m%20Super-16a085" height="25"/> / <img src="https://img.shields.io/badge/-RTX%2020XX-95a5a6" height="25"/> / <img src="https://img.shields.io/badge/-RTX%20A2000-BC8F8F" height="25"/> 
 
 By default, manufacturers offer to download two drivers that need to be installed sequentially and which are simply of terrible quality, for example, it is impossible to render with such drivers using blender or arnold, and updating such a driver will most likely never happen. 
 I decided to fix this situation and corrected the original drivers from nvidia, which now work fine with such video cards. Use it, enjoy life and don't forget to [support the project](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)!!  
