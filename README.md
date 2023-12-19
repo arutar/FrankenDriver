@@ -21,10 +21,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 [Latest news in the buymeacoffee feed](https://www.buymeacoffee.com/FrankenDriver/posts)
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [537.42](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1oAsWkl-qD2pH8_DaF9w7sYuDLsxijY1F)
 - Windows [537.58](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1U9VxLcJqxjQ8ZUMMEk5ubUncOWVxP518)
 - Windows [545.84](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1eii2CYny0JPk4qTvSjddX3qbSgNEg9wJ)
 - Windows [545.92](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1eHgIj0Tq9Txm8rddV-PIUz1BMzt6pcSe)
+- Windows [546.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5jDyNzfvj3UA1YHTsLBQEwq2YYK4t5V)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [535.104.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl)
 
