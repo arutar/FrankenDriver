@@ -25,6 +25,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [545.84](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1eii2CYny0JPk4qTvSjddX3qbSgNEg9wJ)
 - Windows [545.92](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1eHgIj0Tq9Txm8rddV-PIUz1BMzt6pcSe)
 - Windows [546.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5jDyNzfvj3UA1YHTsLBQEwq2YYK4t5V)
+- Windows [546.33](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1a71Idxp8uq2JooA7nImUTp5F7jCS6lqL)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [535.104.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl)
 
