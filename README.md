@@ -32,10 +32,10 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <details><summary>Linux (HiveOS) Wget download link</summary>
 
 ```Batchfile
- wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
+ wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run '--post-data=confirm=no_antivirus' 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
 ```
 ```Batchfile
- wget --output-document=NVIDIA-Linux-x86_64-535.104.05.run 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl'
+ wget --output-document=NVIDIA-Linux-x86_64-535.104.05.run '--post-data=confirm=no_antivirus' 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1ErN4_upq1C5KkJs2EnA9PMQGKQk62Csl'
 ```
 
 </details>
