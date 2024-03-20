@@ -5,6 +5,7 @@ How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/
 
 - RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
 - RTX 3050m Ti / RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m / RTX 3080m Ti
+- RTX 4080m / RTX 4090m (starting from version 551.86)
 - RTX A2000
 
 This page is for those people who were lucky enough to buy a video card from aliexpress 
