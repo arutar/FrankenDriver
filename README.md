@@ -10,6 +10,8 @@ How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/
 
 This page is for those people who were lucky enough to buy a video card from aliexpress 
 
+<img src="https://img.shields.io/badge/-RTX%204080m-FF3633" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204090m-2E4053" height="25"/> 
+
 <img src="https://img.shields.io/badge/-RTX%203050m%20Ti-CCFFCC" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203060m-orange" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m-green" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m%20Ti-blueviolet" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m-blue" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m%20Ti-795548" height="25"/> 
 
 <img src="https://img.shields.io/badge/-RTX%202070m-ff69b4" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m-ff4400" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m%20Super-16a085" height="25"/> / <img src="https://img.shields.io/badge/-RTX%2020XX-95a5a6" height="25"/> 
