@@ -25,7 +25,9 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 # Drivers download  
 #### Studio and [LATEST drivers download with boosty](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link) **subscription + TG channel**.  
-[Latest news in the boosty feed](https://boosty.to/frankendriver) 
+[Latest news in the boosty feed](https://boosty.to/frankendriver)
+
+##### Unfortunately, subscription through buymeacoffee is no longer possible and, for some reason unknown to me, the frankendriver page there is blocked.
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
 - Windows [537.58](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1U9VxLcJqxjQ8ZUMMEk5ubUncOWVxP518)
