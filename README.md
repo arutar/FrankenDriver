@@ -30,8 +30,6 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ##### Unfortunately, subscription through **buymeacoffee** is no longer possible and, for some reason unknown to me, the frankendriver page there is blocked.
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [545.92](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1eHgIj0Tq9Txm8rddV-PIUz1BMzt6pcSe)
-- Windows [546.01](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5jDyNzfvj3UA1YHTsLBQEwq2YYK4t5V)
 - Windows [546.33](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1a71Idxp8uq2JooA7nImUTp5F7jCS6lqL)
 - Windows [551.23](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5y8kkQK7YZ4j5uPxZa2IFHX3a9hpB5m)
 - Windows [551.86](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=174KUaWSLPhXnwj225pWyJZF1YKyzndyx)
