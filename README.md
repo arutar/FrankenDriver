@@ -16,7 +16,7 @@ This page is for those people who were lucky enough to buy a video card from ali
 
 <img src="https://img.shields.io/badge/-RTX%202070m-ff69b4" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m-ff4400" height="25"/> / <img src="https://img.shields.io/badge/-RTX%202080m%20Super-16a085" height="25"/> / <img src="https://img.shields.io/badge/-RTX%2020XX-95a5a6" height="25"/> 
 
-<img src="https://img.shields.io/badge/-RTX%20A2000-BC8F8F" height="25"/> 
+<img src="https://img.shields.io/badge/-RTX%20A2000-BC8F8F" height="25"/> / <img src="https://img.shields.io/badge/-RTX%20A3000-F0FF33" height="25"/> 
 
 By default, manufacturers offer to download two drivers that need to be installed sequentially and which are simply of terrible quality, for example, it is impossible to render with such drivers using blender or arnold, and updating such a driver will most likely never happen. 
 I decided to fix this situation and corrected the original drivers from nvidia, which now work fine with such video cards. Use it, enjoy life and don't forget to [support the project](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link)!!  
