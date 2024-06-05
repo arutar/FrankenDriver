@@ -30,9 +30,9 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ##### Unfortunately, subscription through **buymeacoffee** is no longer possible and, for some reason unknown to me, the frankendriver page there is blocked.
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [546.33](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1a71Idxp8uq2JooA7nImUTp5F7jCS6lqL)
 - Windows [551.23](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5y8kkQK7YZ4j5uPxZa2IFHX3a9hpB5m)
 - Windows [551.86](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=174KUaWSLPhXnwj225pWyJZF1YKyzndyx)
+- Windows [552.22](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1YV_i6S6sZbyKKevRWIUEmUd11yJc-tHZ)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
 
