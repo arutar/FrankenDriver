@@ -5,12 +5,12 @@ How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/
 
 - RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
 - RTX 3050m Ti / RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m / RTX 3080m Ti
-- RTX 4080m / RTX 4090m (starting from version **551.86**)
+- (RTX 4050m / RTX 4060m / RTX 4070m (starting from version **555.85**)) / RTX 4080m / RTX 4090m
 - RTX A2000 / RTX A3000 (starting from version **555.85**)
 
 This page is for those people who were lucky enough to buy a video card from aliexpress 
 
-<img src="https://img.shields.io/badge/-RTX%204080m-FF3633" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204090m-2E4053" height="25"/> 
+<img src="https://img.shields.io/badge/-RTX%204050m-641e16" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204060m-2e4053" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204070m-DAF7A6" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204080m-FF3633" height="25"/> / <img src="https://img.shields.io/badge/-RTX%204090m-2E4053" height="25"/> 
 
 <img src="https://img.shields.io/badge/-RTX%203050m%20Ti-CCFFCC" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203060m-orange" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m-green" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203070m%20Ti-blueviolet" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m-blue" height="25"/> / <img src="https://img.shields.io/badge/-RTX%203080m%20Ti-795548" height="25"/> 
 
@@ -30,7 +30,6 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ##### Unfortunately, subscription through **buymeacoffee** is no longer possible and, for some reason unknown to me, the frankendriver page there is blocked.
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [551.23](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1N5y8kkQK7YZ4j5uPxZa2IFHX3a9hpB5m)
 - Windows [551.86](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=174KUaWSLPhXnwj225pWyJZF1YKyzndyx)
 - Windows [552.22](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1YV_i6S6sZbyKKevRWIUEmUd11yJc-tHZ)
 - Windows [555.85](https://disk.yandex.ru/d/qXmOhcr8QCxJUg)
