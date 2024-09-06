@@ -26,7 +26,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 # Drivers download  
 #### Studio and [LATEST drivers download with boosty](https://boosty.to/frankendriver/purchase/1380135?ssource=DIRECT&share=subscription_link) **subscription + TG channel**.  
 [Latest news in the boosty feed](https://boosty.to/frankendriver)
-#### Studio and [LATEST drivers download with lava.top](https://app.lava.top/en/frankendriver) **subscription**.  
+#### Studio and [LATEST drivers download with lava.top](https://app.lava.top/en/frankendriver?subscriptionOfferId=962418ce-5876-478e-bae2-a849e036a324) **subscription**.  
 [Latest news in the lava.top feed](https://app.lava.top/en/frankendriver)
 
 <img align="right" width="120" height="120" src="logo/frame.png">
