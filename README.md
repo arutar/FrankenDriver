@@ -29,6 +29,8 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 #### Studio and [LATEST drivers download with lava.top](https://app.lava.top/en/frankendriver) **subscription**.  
 [Latest news in the lava.top feed](https://app.lava.top/en/frankendriver)
 
+<img align="right" width="120" height="120" src="logo/frame.png">
+
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
 - Windows [551.86](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=174KUaWSLPhXnwj225pWyJZF1YKyzndyx)
 - Windows [552.22](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1YV_i6S6sZbyKKevRWIUEmUd11yJc-tHZ)
