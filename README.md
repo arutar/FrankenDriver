@@ -39,6 +39,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [560.81](https://disk.yandex.ru/d/Gia_OyBkbkshhw)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
+- Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
 
 
 <details><summary>Linux (HiveOS) Wget download link</summary>
@@ -49,7 +50,9 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ```Batchfile
  wget --output-document=NVIDIA-Linux-x86_64-550.78.run '--post-data=confirm=no_antivirus' 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7'
 ```
-
+```Batchfile
+wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ADbVbIIe3W1jLA -O NVIDIA-Linux-x86_64-550.120.run
+```
 </details>
 
 <details><summary>Security and transparency</summary>
