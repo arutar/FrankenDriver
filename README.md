@@ -1,7 +1,9 @@
 ![logo](logo/FrankenDriver.png)
 # FrankenDriver
-### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (**Win10 Win11 Linux**)  
-How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/issues/6)!
+### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (**Win10 Win11 Linux**)
+
+> [!IMPORTANT] 
+> How to enable [Easy Anti-Cheat support](https://github.com/arutar/FrankenDriver/issues/6)!
 
 - RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
 - RTX 3050m Ti / RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m / RTX 3080m Ti
