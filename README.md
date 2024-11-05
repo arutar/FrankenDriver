@@ -67,7 +67,7 @@ wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ADbVbIIe3W1j
 
 </details>
 
-<a href="https://app.lava.top/ru/frankendriver?donate=open">
+<a href="https://app.lava.top/frankendriver?donate=open">
   <p align="center">
     <img src="https://raw.githubusercontent.com/arutar/FrankenDriver/main/logo/donate.png" alt="Donate with Lava.top" />
   </p>
