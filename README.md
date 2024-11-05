@@ -34,11 +34,11 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <img align="right" width="120" height="120" src="logo/frame.png">
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [551.86](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=174KUaWSLPhXnwj225pWyJZF1YKyzndyx)
 - Windows [552.22](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1YV_i6S6sZbyKKevRWIUEmUd11yJc-tHZ)
 - Windows [555.85](https://disk.yandex.ru/d/qXmOhcr8QCxJUg)
 - Windows [555.99](https://disk.yandex.ru/d/dF803lkRJiyiIQ)
 - Windows [560.81](https://disk.yandex.ru/d/Gia_OyBkbkshhw)
+- Windows Server 2016+ [Quadro 538.95](https://disk.yandex.ru/d/_Z-4lZS95NKn5g)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
 - Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
