@@ -67,32 +67,9 @@ wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ADbVbIIe3W1j
 
 </details>
 
-<details><summary>Supported devices</summary>
-    
-- ### RTX 3060m
-  10DE.2520 10DE.0000  
-
-- ### RTX 3070m
-  10DE.249D 10DE.0000  
-  10DE.249D 4D50.4449  
-
-- ### RTX 3070m Ti
-  10DE.24A0 10DE.0000  
- 
-- ### RTX 3080m   
-  10DE.249C 10DE.0000  
-  10DE.249C 4D50.4449  
-
-</details>
-
-<details><summary>Issues</summary>
-
-- [Easy Anti-Cheat errors](https://github.com/arutar/FrankenDriver/issues/2)
-- [How to remove Easy Anti-Cheat errors](https://github.com/arutar/FrankenDriver/issues/6)
-- [Add a new Device ID](https://github.com/arutar/FrankenDriver/issues/5)
-
-</details>
-
-#### [Silver subscription & TG channel](https://boosty.to/frankendriver/purchase/1487157?ssource=DIRECT&share=subscription_link) for communities or organizations that would like to support the project!
-#### Need a very customized driver? Interested in the long existence of the project? [Gold subscription & TG channel](https://boosty.to/frankendriver/purchase/1383232?ssource=DIRECT&share=subscription_link)
+<a href="https://app.lava.top/ru/frankendriver?donate=open">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/arutar/FrankenDriver/main/logo/donate.png" alt="Donate with Lava.top" />
+  </p>
+</a>
 
