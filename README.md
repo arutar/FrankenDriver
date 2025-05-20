@@ -45,6 +45,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
 - Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
+- Linux [570.153.02](https://disk.yandex.ru/d/bqDwzphlldcmJg)
 
 
 <details><summary>Linux (HiveOS) Wget download link</summary>
@@ -57,6 +58,9 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 ```
 ```Batchfile
 wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ADbVbIIe3W1jLA -O NVIDIA-Linux-x86_64-550.120.run
+```
+```Batchfile
+wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/bqDwzphlldcmJg -O NVIDIA-Linux-x86_64-570.153.02.run
 ```
 </details>
 
