@@ -7,8 +7,8 @@
 
 - RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
 - RTX 3050m Ti / RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m / RTX 3080m Ti
-- (RTX 4050m / RTX 4060m / RTX 4070m (starting from version **555.85**)) / RTX 4080m / RTX 4090m
-- RTX A2000 / RTX A3000 (starting from version **555.85**)
+- RTX 4050m / RTX 4060m / RTX 4070m  / RTX 4080m / RTX 4090m
+- RTX A2000 / RTX A3000
 
 This page is for those people who were lucky enough to buy a video card from aliexpress 
 
@@ -34,7 +34,6 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 <img align="right" width="120" height="120" src="logo/frame.png">
 
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [552.22](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1YV_i6S6sZbyKKevRWIUEmUd11yJc-tHZ)
 - Windows [555.99](https://disk.yandex.ru/d/dF803lkRJiyiIQ)
 - Windows [560.81](https://disk.yandex.ru/d/Gia_OyBkbkshhw)
 - Windows [566.03](https://disk.yandex.ru/d/ZVUUCDkE-5HtPg)
