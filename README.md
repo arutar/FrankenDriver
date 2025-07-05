@@ -1,5 +1,5 @@
 ![logo](logo/FrankenDriver.png)
-# FrankenDriver
+# FrankenDriver [(Mirror)](https://frankendriver.ru)
 ### Original nvidia driver for **frankenstein graphics cards** with a laptop chip. (**Win10 Win11 Linux**)
 
 > [!IMPORTANT] 
