@@ -8,7 +8,9 @@
 - RTX 20XX / RTX 2070m / RTX 2080m / RTX 2080m Super
 - RTX 3050m Ti / RTX 3060m / RTX 3070m / RTX 3070m Ti / RTX 3080m / RTX 3080m Ti
 - RTX 4050m / RTX 4060m / RTX 4070m  / RTX 4080m / RTX 4090m
-- RTX A2000 / RTX A3000
+- RTX A2000 / RTX A3000 / RTX A4500 / RTX A5500
+- RTX 2000 Ada / RTX 3500 Ada / RTX 4000 Ada / RTX 5000 Ada
+- Some Quadro series / non-upgradeable laptop cards
 
 This page is for those people who were lucky enough to buy a video card from aliexpress 
 
