@@ -43,6 +43,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [572.60](https://disk.yandex.ru/d/6NrxiA4mi2QNJw)
 - Windows [576.28](https://disk.yandex.ru/d/CvbMOBccEVZStg)
 - Windows [576.80](https://disk.yandex.ru/d/KuZWQ3KP49ywOA)
+- Windows [576.88](https://disk.yandex.ru/d/QVvLpHIXSmRKcw)
 - Windows Server 2016+ [Quadro 538.95](https://disk.yandex.ru/d/_Z-4lZS95NKn5g)
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
