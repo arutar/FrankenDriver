@@ -35,27 +35,23 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 
 <img align="right" width="120" height="120" src="logo/frame.png">
 
+### Windows
 - Windows [528.24](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1o8mkToO0ssKjTdF-C90LjKbtLKFtfIuq) (with support for changing the Power Limit)
-- Windows [555.99](https://disk.yandex.ru/d/dF803lkRJiyiIQ)
-- Windows [560.81](https://disk.yandex.ru/d/Gia_OyBkbkshhw)
-- Windows [566.03](https://disk.yandex.ru/d/ZVUUCDkE-5HtPg)
-- Windows [572.16](https://disk.yandex.ru/d/tae8MpWAl4SUKQ)
-- Windows [572.60](https://disk.yandex.ru/d/6NrxiA4mi2QNJw)
 - Windows [576.28](https://disk.yandex.ru/d/CvbMOBccEVZStg)
 - Windows [576.80](https://disk.yandex.ru/d/KuZWQ3KP49ywOA)
 - Windows [576.88](https://disk.yandex.ru/d/QVvLpHIXSmRKcw)
 - Windows [581.15](https://disk.yandex.ru/d/_ryuF3fjsyD3IA)
 - Windows [591.59](https://disk.yandex.ru/d/bZqHz4Lh5dfWkQ)
 - Windows Server 2016+ [Quadro 538.95](https://disk.yandex.ru/d/_Z-4lZS95NKn5g)
+### Linux
+**Starting with version 580.142, the Linux Frankendriver has been completely redesigned**
 - Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
 - Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
 - Linux [570.153.02](https://disk.yandex.ru/d/bqDwzphlldcmJg)
 - Linux [580.119.02](https://disk.yandex.ru/d/0eqBFiKSBsYpsA)
 
-
-
-<details><summary>Linux (HiveOS) Wget download link</summary>
+<details><summary>Linux Wget download link</summary>
 
 ```Batchfile
  wget --output-document=NVIDIA-Linux-x86_64-525.85.05.run '--post-data=confirm=no_antivirus' 'https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS'
