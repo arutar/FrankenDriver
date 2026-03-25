@@ -45,12 +45,12 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows Server 2016+ [Quadro 538.95](https://disk.yandex.ru/d/_Z-4lZS95NKn5g)
 ### Linux
 **Starting with version 580.142, the Linux Frankendriver has been completely redesigned**
-- Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) and [Installation instruction](https://github.com/arutar/FrankenDriver/issues/11)
+- Linux [525.85.05](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1Uk8Mw2TcGgqBxYsmBa8EOiKlTSSmn9SS) 
 - Linux [550.78](https://drive.google.com/uc?export=download&confirm=no_antivirus&acknowledgeAbuse=true&id=1nSB-kHAAoEDyY6TfKaHtOLFsh-RRK7p7)
 - Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
 - Linux [570.153.02](https://disk.yandex.ru/d/bqDwzphlldcmJg)
 - Linux [580.119.02](https://disk.yandex.ru/d/0eqBFiKSBsYpsA)
-- Linux [580.142](https://disk.yandex.ru/d/OS6zTgUN7Olhbw) and [New installation instruction](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-fedora/33)
+- Linux [580.142](https://disk.yandex.ru/d/OS6zTgUN7Olhbw) and [installation instruction Fedora](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-fedora/33) [Ubuntu](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-ubuntu/39)
 
 <details><summary>Linux Wget download link</summary>
 
