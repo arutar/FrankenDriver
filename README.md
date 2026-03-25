@@ -50,7 +50,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Linux [550.120](https://disk.yandex.ru/d/ADbVbIIe3W1jLA)
 - Linux [570.153.02](https://disk.yandex.ru/d/bqDwzphlldcmJg)
 - Linux [580.119.02](https://disk.yandex.ru/d/0eqBFiKSBsYpsA)
-- Linux [580.142](https://disk.yandex.ru/d/OS6zTgUN7Olhbw) and [installation instruction Fedora](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-fedora/33) [Ubuntu](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-ubuntu/39)
+- Linux [580.142](https://disk.yandex.ru/d/OS6zTgUN7Olhbw) and installation instructions: for [Fedora](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-fedora/33), for [Ubuntu](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-ubuntu/39)
 
 <details><summary>Linux Wget download link</summary>
 
