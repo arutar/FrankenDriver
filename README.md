@@ -42,6 +42,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Windows [576.88](https://disk.yandex.ru/d/QVvLpHIXSmRKcw)
 - Windows [581.15](https://disk.yandex.ru/d/_ryuF3fjsyD3IA)
 - Windows [591.59](https://disk.yandex.ru/d/bZqHz4Lh5dfWkQ)
+- Windows [610.47](https://disk.yandex.ru/d/aNI-wz1rutbTCw)
 - Windows Server 2016+ [Quadro 538.95](https://disk.yandex.ru/d/_Z-4lZS95NKn5g)
 ### Linux
 **Starting with version 580.142, the Linux Frankendriver has been completely redesigned**
