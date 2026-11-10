@@ -52,6 +52,7 @@ I decided to fix this situation and corrected the original drivers from nvidia, 
 - Linux [570.153.02](https://disk.yandex.ru/d/bqDwzphlldcmJg)
 - Linux [580.119.02](https://disk.yandex.ru/d/0eqBFiKSBsYpsA)
 - Linux [580.142](https://disk.yandex.ru/d/OS6zTgUN7Olhbw) and installation instructions: for [Fedora](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-fedora/33), for [Ubuntu](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-ubuntu/39), for [Arch Linux](https://frankendriver.ru/forum/t/nvidia-driver-installation-guide-for-arch-linux/40), for [CachyOS](https://github.com/arutar/FrankenDriver/issues/117)
+- Linux [595.99.02](https://disk.yandex.ru/d/WBOV0nM7jWtXtg)
 
 <details><summary>Linux Wget download link</summary>
 
@@ -72,6 +73,9 @@ wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/0eqBFiKSBsYp
 ```
 ```Batchfile
 wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/OS6zTgUN7Olhbw -O NVIDIA-Linux-x86_64-580.142.run 
+```
+```Batchfile
+wget https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/WBOV0nM7jWtXtg -O NVIDIA-Linux-x86_64-595.99.02.run 
 ```
 </details>
 
